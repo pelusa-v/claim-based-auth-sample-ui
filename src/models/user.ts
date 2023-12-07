@@ -1,0 +1,3 @@
+interface User {
+    Email : string
+}
